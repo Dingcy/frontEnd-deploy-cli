@@ -1,6 +1,6 @@
 {
-  "name": "fr-deploy-cli",
-  "version": "1.0.0",
+  "name": "frend-deploy-cli",
+  "version": "1.0.2",
   "description": "前端轻量化部署脚手架",
   "bin": {
     "deploy": "./bin/index.js"
